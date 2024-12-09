@@ -9,15 +9,16 @@ This repository contains my solutions to the annual [Advent of Code](https://adv
 # Programming Languages Used
 
 I use a variety of programming languages depending on the problem or for practice.
+# Programming Languages Used
 
 | **Language**   | **Logo** | **Current Language** | **Used in Solutions** | **Wishlist** |
 |----------------|----------|-----------------------|------------------------|--------------|
-| **Go**         | ![Go Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg) | ✅ | ✅ |   |
-| **Python**     | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |   | ✅ |   |
-| **C**          | ![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) |   |   | ✅ |
-| **JavaScript** | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) |   |   | ✅ |
-| **Rust**       | ![Rust Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg) |   |   | ✅ |
-| **Java**       | ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) |   |   | ✅ |
+| **Python**     | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40"/> |   | ✅ |   |
+| **C**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="40"/> |   |   | ✅ |
+| **JavaScript** | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40"/> |   |   | ✅ |
+| **Rust**       | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="40"/> |   |   | ✅ |
+| **Go**         | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go Logo" width="40"/> | ✅ | ✅ |   |
+| **Java**       | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="40"/> |   |   | ✅ |
 
 - **Python**: Primary language for rapid prototyping and solving.
 - **C**: For performance-oriented solutions.
