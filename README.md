@@ -65,13 +65,13 @@ AdventOfCode/
 
 1. Navigate to the directory for the specific year and day:
    ```bash
-   cd 2022/Day01
+   cd 2024/Day01
    ```
    
 2. **Run the solution script or compile the code**:
    - Navigate to the specific year's directory and day:
      ```bash
-     cd 2022/Day01
+     cd 2024/Day01
      ```
    - Run or compile the solution based on the programming language:
      - For **Python**:
