@@ -34,6 +34,7 @@ I use a variety of programming languages depending on the problem or for practic
 
 The repository is organized by year and day. Each directory corresponds to a specific year's challenge, and subdirectories contain solutions for individual days.
 
+```
 AdventOfCode/
 ├── 2024/
 │   ├── Day01/
@@ -50,6 +51,7 @@ AdventOfCode/
 │   └── ...
 ├── ...
 └── README.md
+```
 
 ## Getting Started
 
