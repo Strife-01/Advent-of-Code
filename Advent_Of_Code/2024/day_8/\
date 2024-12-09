@@ -1,0 +1,27 @@
+package main
+
+import (
+  "fmt";
+  "os";
+  "errors";
+)
+
+func getInputFromFile(filename string) string {
+  
+}
+
+func getFileName() string, error{
+  if len(os.Args) != 1 {
+    return "" "Usage ./unique_rezonant.go fileData.txt";
+  }
+  
+}
+
+func main() {
+  filename string, err error := getFileName();
+  if err != nil {
+    fmt.Println(err);
+    return -1;
+  }
+  dataGrid string := getInputFromFile(filename);
+}
